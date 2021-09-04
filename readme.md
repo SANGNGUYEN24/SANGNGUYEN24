@@ -1,6 +1,6 @@
 ### 👼Hi guys, I'm Sang
 
-### I'm a Computer Science student at the HCMC Univercity of Technology. I am passionate to learn all new things.
+> I'm a Computer Science student at the HCMC Univercity of Technology. I am passionate to learn all new things.
 
 ### Connect with me:
 
