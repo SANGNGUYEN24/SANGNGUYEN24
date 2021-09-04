@@ -7,7 +7,7 @@ I'm a Computer Science student at the HCMC Univercity of Technology. I am passio
 
 [`Facebook`](https://www.facebook.com/sang.kakashi.7/) [`Linkedin`](https://www.linkedin.com/in/sangndsteve/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SANGNGUYEN24&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SANGNGUYEN24&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SANGNGUYEN24&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
