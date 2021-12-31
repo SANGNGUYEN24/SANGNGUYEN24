@@ -1,4 +1,4 @@
-### Hi guys, I'm Sang
+### Hi guys, I'm Sang (Nguyễn Đình Sáng)
 
 I'm a Computer Science student at the HCMC University of Technology. I am passionate to learn all new things.
 
