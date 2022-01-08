@@ -6,7 +6,7 @@ I'm a Computer Science student at the HCMC University of Technology. I am passio
 
 ### Connect with me:
 
-[`Facebook`](https://www.facebook.com/sang.kakashi.7/) [`Linkedin`](https://www.linkedin.com/in/sangndsteve/)
+[`Facebook`](https://www.facebook.com/sang.kakashi.7/) [`Linkedin`](https://www.linkedin.com/in/sangsteve/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SANGNGUYEN24&count_private=true&show_icons=true&theme=nord&hide_border=true&border_radius=12)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
 <img style="width:200px" src="https://user-images.githubusercontent.com/78266241/142904633-595aa4b3-fa36-4778-855d-3f4ddf62cc67.png" />
