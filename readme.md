@@ -1,12 +1,12 @@
 ### Hi guys, I'm Sang (Nguyễn Đình Sáng)
 
-I'm a Computer Science student at the HCMC University of Technology. I am passionate to learn all new things.
+I am nothing, I want to learn every day
 
 ---
 
 ### Connect with me:
 
-[`Facebook`](https://www.facebook.com/sang.kakashi.7/) [`Linkedin`](https://www.linkedin.com/in/sangnguyen24/)
+[`Facebook`](https://www.facebook.com/sang.nguyendinh24) [`Linkedin`](https://www.linkedin.com/in/sangnguyen24/)
 <!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SANGNGUYEN24&count_private=true&show_icons=true&theme=nord&hide_border=true&border_radius=12)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
  -->
