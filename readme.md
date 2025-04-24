@@ -1,6 +1,6 @@
 ### Hi guys, I'm Sang (Nguyễn Đình Sáng)
 
-I am an Android Developer, I want to learn everyday
+I am an Android Developer, I want to learn every day
 
 ---
 
