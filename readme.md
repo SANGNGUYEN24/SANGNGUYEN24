@@ -1,6 +1,6 @@
 ### Hi guys, I'm Sang (Nguyễn Đình Sáng)
 
-I am a developer, I want to learn every day
+👋 Hi! I’m a Software Engineer working with `Android` and `Kotlin Multiplatform`.
 
 ---
 
